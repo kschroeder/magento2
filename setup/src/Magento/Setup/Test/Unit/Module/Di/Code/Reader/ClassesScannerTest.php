@@ -19,7 +19,6 @@ class ClassesScannerTest extends \PHPUnit_Framework_TestCase
      *
      * @var string
      */
-
     private $generation;
 
     protected function setUp()
